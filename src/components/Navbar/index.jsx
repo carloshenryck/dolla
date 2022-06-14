@@ -20,7 +20,7 @@ const Navbar = ({ toggle }) => {
 
           <MobileIcon onClick={toggle}>
             <FaBars />
-          </MobileIcon>
+          </MobileIcon> 
 
           <NavMenu>
             <NavItem>
